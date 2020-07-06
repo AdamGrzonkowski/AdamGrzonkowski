@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This profile holds some of my repositories, which I used to test around different technologies.
+
 <!--
 **AdamGrzonkowski/AdamGrzonkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
